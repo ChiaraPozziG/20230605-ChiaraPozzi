@@ -1,0 +1,4 @@
+Ejemplos de software:
+Software de Videojuegos: Minecraft
+Software de sistemas operativos: Windows
+Software de gestion: Jira
